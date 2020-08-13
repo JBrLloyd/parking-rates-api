@@ -13,10 +13,15 @@ Using dotnet cli in Powershell, `dotnet run src/WebUI/WebUI.csproj`
 ## ToDos
 
 [ ] Add health check for dB (only external resource)
+
 [ ] Add Integration Tests for dB (only external resource)
+
 [ ] Rework the data structures (they're messy and rushed) 😢
+
 [ ] Add more exception behaviours
+
 [ ] Add OAuth Authentication and Claim-based Authorization (don't want to spend money on fancy Idps)
+
 [ ] Git Actions Build and CI Deploy
 
 ## Logic Assumptions
